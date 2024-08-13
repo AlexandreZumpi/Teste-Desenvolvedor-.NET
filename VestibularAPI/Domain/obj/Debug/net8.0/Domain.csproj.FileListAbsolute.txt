@@ -1,0 +1,12 @@
+D:\Projetos\CrmEducacional\Teste-Desenvolvedor-.NET\VestibularAPI\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Projetos\CrmEducacional\Teste-Desenvolvedor-.NET\VestibularAPI\Domain\bin\Debug\net8.0\Domain.dll
+D:\Projetos\CrmEducacional\Teste-Desenvolvedor-.NET\VestibularAPI\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Projetos\CrmEducacional\Teste-Desenvolvedor-.NET\VestibularAPI\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CrmEducacional\Teste-Desenvolvedor-.NET\VestibularAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Projetos\CrmEducacional\Teste-Desenvolvedor-.NET\VestibularAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Projetos\CrmEducacional\Teste-Desenvolvedor-.NET\VestibularAPI\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\CrmEducacional\Teste-Desenvolvedor-.NET\VestibularAPI\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Projetos\CrmEducacional\Teste-Desenvolvedor-.NET\VestibularAPI\Domain\obj\Debug\net8.0\Domain.dll
+D:\Projetos\CrmEducacional\Teste-Desenvolvedor-.NET\VestibularAPI\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Projetos\CrmEducacional\Teste-Desenvolvedor-.NET\VestibularAPI\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Projetos\CrmEducacional\Teste-Desenvolvedor-.NET\VestibularAPI\Domain\obj\Debug\net8.0\ref\Domain.dll
