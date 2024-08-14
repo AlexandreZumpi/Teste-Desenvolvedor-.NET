@@ -24,7 +24,6 @@ namespace API.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(Inscricao inscricao)
         {
-            //if (inscricao == null) return BadRequest();
             await _inscricaoService.AddAsync(inscricao);
             return CreatedAtAction(nameof(GetById), new { id = inscricao.Id }, inscricao);
         }
