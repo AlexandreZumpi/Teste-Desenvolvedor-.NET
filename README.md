@@ -1,3 +1,6 @@
+# O video do teste esta em https://youtu.be/P1uVnr3C_UM
+
+
 # Teste Desenvolvedor .NET
 
 ![Aiko](imagens/logocrm.png)
