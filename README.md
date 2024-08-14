@@ -1,5 +1,5 @@
 # O video do teste esta em https://youtu.be/P1uVnr3C_UM
-
+# Adicionei também um arquivo PDF que seria uma documentação mínima do projeto.
 
 # Teste Desenvolvedor .NET
 
